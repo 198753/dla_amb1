@@ -54,7 +54,7 @@ body {
 
 *[class*='col-'] {
 	float: left;
-	Min-height: 1px;
+	min-height: 1px;
 }
 .container {
   width: 100%;
